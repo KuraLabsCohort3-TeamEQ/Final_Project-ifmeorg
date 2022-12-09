@@ -3,7 +3,7 @@
 
 # Kura Labs Final Project- Team EQ
 - Clarence Munn (Project Manager) 
-- Sasheeny Hubard
+- Sasheeny Hubbard
 - Kingman Tam (Chief Architect)
 - Walter Emmanuel
 - Kevin Sanaycela (Administrator)
