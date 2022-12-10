@@ -20,7 +20,7 @@ Original Repo: [ifmeorg/ifme](https://github.com/ifmeorg/ifme)
 After locating the file with the color variables here:
 app/assets/stylesheets/base/_colors.scss
 
-We can choose a color already available, or add a color to the file. From there we can navigate to:
+We can choose a color already available, or add a color to the file. After choosing a color we can navigate to:
 app/assets/stylesheets/dashboard/dashboard.scss
 
 We decided to change the color of the dashboard background.
