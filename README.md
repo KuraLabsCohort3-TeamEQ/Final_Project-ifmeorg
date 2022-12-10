@@ -15,3 +15,15 @@ For our team's final project at Kura Labs, we wanted to deploy an application th
 For such, we have chosen an application called if-me.org which "is a community for mental health experiences that encourages people to share their personal stories with trusted allies." -https://www.if-me.org/about
 
 Original Repo: [ifmeorg/ifme](https://github.com/ifmeorg/ifme)
+
+### Creating a visible change
+After locating the file with the color variables here:
+app/assets/stylesheets/base/_colors.scss
+
+We can choose a color already available, or add a color to the file. From there we can navigate to:
+app/assets/stylesheets/dashboard/dashboard.scss
+
+We decided to change the color of the dashboard background.
+
+**Note this will only change the background color of the dashboard (what you see while logged in) and its contents such as "Moments", "Categories", "Mood", etc. Once you click on the "About", "Blog", or other sections at the top right, the original background color will be displayed.
+
